@@ -45,7 +45,7 @@ for (const city of cities) {
 
 const mestoLinks = cities
   .map((city) => {
-    const href = `/stehovani-${escapeHtml(city.slug)}`;
+    const href = `./stehovani-${escapeHtml(city.slug)}.html`;
     const label = `Stěhování ${escapeHtml(city.mesto_1)}`;
     const region = escapeHtml(city.region);
     return `<li><a href="${href}">${label}</a><span class="region">${region}</span></li>`;
