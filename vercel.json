@@ -1,6 +1,9 @@
 {
   "version": 2,
+  "buildCommand": "node generate.js",
+  "outputDirectory": "output",
   "routes": [
-    { "src": "/(.*)", "dest": "/output/$1.html" }
+    { "src": "/stehovani-(.*)", "dest": "/stehovani-$1.html" },
+    { "src": "/", "dest": "/index.html" }
   ]
 }
