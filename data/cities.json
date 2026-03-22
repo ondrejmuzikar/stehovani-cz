@@ -1,0 +1,162 @@
+[
+  {
+    "mesto_1": "Praha",
+    "mesto_2": "v Praze",
+    "mesto_3": "pražské",
+    "slug": "praha",
+    "population": 1283000,
+    "region": "Hlavní město Praha"
+  },
+  {
+    "mesto_1": "Brno",
+    "mesto_2": "v Brně",
+    "mesto_3": "brněnské",
+    "slug": "brno",
+    "population": 379000,
+    "region": "Jihomoravský kraj"
+  },
+  {
+    "mesto_1": "Ostrava",
+    "mesto_2": "v Ostravě",
+    "mesto_3": "ostravské",
+    "slug": "ostrava",
+    "population": 285000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Plzeň",
+    "mesto_2": "v Plzni",
+    "mesto_3": "plzeňské",
+    "slug": "plzen",
+    "population": 175000,
+    "region": "Plzeňský kraj"
+  },
+  {
+    "mesto_1": "Liberec",
+    "mesto_2": "v Liberci",
+    "mesto_3": "liberecké",
+    "slug": "liberec",
+    "population": 104000,
+    "region": "Liberecký kraj"
+  },
+  {
+    "mesto_1": "Olomouc",
+    "mesto_2": "v Olomouci",
+    "mesto_3": "olomoucké",
+    "slug": "olomouc",
+    "population": 102000,
+    "region": "Olomoucký kraj"
+  },
+  {
+    "mesto_1": "České Budějovice",
+    "mesto_2": "v Českých Budějovicích",
+    "mesto_3": "českobudějovické",
+    "slug": "ceske-budejovice",
+    "population": 94000,
+    "region": "Jihočeský kraj"
+  },
+  {
+    "mesto_1": "Hradec Králové",
+    "mesto_2": "v Hradci Králové",
+    "mesto_3": "hradeckokrálovské",
+    "slug": "hradec-kralove",
+    "population": 93000,
+    "region": "Královéhradecký kraj"
+  },
+  {
+    "mesto_1": "Ústí nad Labem",
+    "mesto_2": "v Ústí nad Labem",
+    "mesto_3": "ústecké",
+    "slug": "usti-nad-labem",
+    "population": 92000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Pardubice",
+    "mesto_2": "v Pardubicích",
+    "mesto_3": "pardubické",
+    "slug": "pardubice",
+    "population": 91000,
+    "region": "Pardubický kraj"
+  },
+  {
+    "mesto_1": "Zlín",
+    "mesto_2": "ve Zlíně",
+    "mesto_3": "zlínské",
+    "slug": "zlin",
+    "population": 75000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Havířov",
+    "mesto_2": "v Havířově",
+    "mesto_3": "havířovské",
+    "slug": "havirov",
+    "population": 70000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Kladno",
+    "mesto_2": "v Kladně",
+    "mesto_3": "kladenské",
+    "slug": "kladno",
+    "population": 69000,
+    "region": "Středočeský kraj"
+  },
+  {
+    "mesto_1": "Most",
+    "mesto_2": "v Mostě",
+    "mesto_3": "mostecké",
+    "slug": "most",
+    "population": 63000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Opava",
+    "mesto_2": "v Opavě",
+    "mesto_3": "opavské",
+    "slug": "opava",
+    "population": 56000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Frýdek-Místek",
+    "mesto_2": "ve Frýdku-Místku",
+    "mesto_3": "frýdeckomístecké",
+    "slug": "frydek-mistek",
+    "population": 54000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Karviná",
+    "mesto_2": "v Karviné",
+    "mesto_3": "karvinské",
+    "slug": "karvina",
+    "population": 50000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Jihlava",
+    "mesto_2": "v Jihlavě",
+    "mesto_3": "jihlavské",
+    "slug": "jihlava",
+    "population": 51000,
+    "region": "Kraj Vysočina"
+  },
+  {
+    "mesto_1": "Teplice",
+    "mesto_2": "v Teplicích",
+    "mesto_3": "teplické",
+    "slug": "teplice",
+    "population": 50000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Děčín",
+    "mesto_2": "v Děčíně",
+    "mesto_3": "děčínské",
+    "slug": "decin",
+    "population": 47000,
+    "region": "Ústecký kraj"
+  }
+]

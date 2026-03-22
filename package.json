@@ -1,0 +1,16 @@
+{
+  "name": "stehovani-cz",
+  "version": "1.0.0",
+  "description": "Programmatic SEO web o stěhování",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
