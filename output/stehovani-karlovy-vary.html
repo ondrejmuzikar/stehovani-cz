@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Stěhování Karlovy Vary a okolí kraje Karlovarský kraj. Působíme v Karlových Varech již 10 let — naše karlovarská stěhovací firma nabízí balení, přepravu a vyklízení. Nezávazná konzultace, férové ceny.">
+  <title>Stěhování Karlovy Vary | Profesionální stěhovací služby</title>
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Stěhování Karlovy Vary | Profesionální stěhovací služby">
+  <meta property="og:description" content="Působíme v Karlových Varech již 10 let. Kompletní servis od balení po vyložení — rychle, bezpečně, za jasnou cenu.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ondrejmuzikar.github.io/stehovani-cz/stehovani-karlovy-vary.html">
+  <meta property="og:locale" content="cs_CZ">
+
+  <!-- Kanonická URL -->
+  <link rel="canonical" href="https://ondrejmuzikar.github.io/stehovani-cz/stehovani-karlovy-vary.html">
+
+  <!-- Schema.org LocalBusiness -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MovingCompany",
+    "name": "Stěhování CZ — Karlovy Vary",
+    "description": "Profesionální stěhovací služby v Karlových Varech a okolí kraje Karlovarský kraj.",
+    "url": "https://ondrejmuzikar.github.io/stehovani-cz/stehovani-karlovy-vary.html",
+    "telephone": "+420 123 456 789",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Karlovy Vary",
+      "addressRegion": "Karlovarský kraj",
+      "addressCountry": "CZ"
+    },
+    "areaServed": "Karlovarský kraj",
+    "priceRange": "Kč Kč",
+    "openingHours": "Mo-Fr 07:00-19:00"
+  }
+  </script>
+
+  <style>
+    :root {
+      --primary: #2563EB;
+      --primary-dark: #1D4ED8;
+      --primary-light: #EFF6FF;
+      --bg: #F8FAFC;
+      --white: #FFFFFF;
+      --text: #0F172A;
+      --muted: #64748B;
+      --border: #E2E8F0;
+      --shadow: 0 4px 6px -1px rgba(15,23,42,0.08), 0 2px 4px -2px rgba(15,23,42,0.06);
+      --shadow-lg: 0 20px 25px -5px rgba(15,23,42,0.08), 0 8px 10px -6px rgba(15,23,42,0.06);
+      --radius: 14px;
+      --font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; font-family: var(--font); font-size: 1rem; line-height: 1.6; color: var(--text); background: var(--bg); }
+    a { color: var(--primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 1.25rem; }
+
+    /* Nav */
+    .nav { position: sticky; top: 0; z-index: 100; background: rgba(255,255,255,0.95); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); box-shadow: var(--shadow); }
+    .nav-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; min-height: 64px; flex-wrap: wrap; }
+    .logo { font-weight: 800; font-size: 1.15rem; color: var(--text); letter-spacing: -0.02em; }
+    .logo span { color: var(--primary); }
+    .nav-phone { display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 700; font-size: 1rem; color: var(--primary); white-space: nowrap; }
+    .nav-phone:hover { text-decoration: none; color: var(--primary-dark); }
+
+    /* Hero */
+    .hero { background: linear-gradient(165deg, var(--primary-light) 0%, var(--white) 55%); padding: 3rem 0 3.5rem; border-bottom: 1px solid var(--border); }
+    .hero h1 { margin: 0 0 1rem; font-size: clamp(1.85rem, 4.5vw, 2.5rem); font-weight: 800; line-height: 1.15; letter-spacing: -0.03em; color: var(--text); }
+    .hero .sub { margin: 0 0 1.75rem; font-size: 1.1rem; color: var(--muted); max-width: 36rem; }
+    .hero .trust { display: inline-block; font-size: 0.95rem; color: var(--text); background: var(--white); padding: 0.5rem 1rem; border-radius: 999px; border: 1px solid var(--border); box-shadow: var(--shadow); margin-bottom: 1.5rem; }
+
+    .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; padding: 0.95rem 1.75rem; font-size: 1.05rem; font-weight: 700; font-family: inherit; color: var(--white); background: var(--primary); border: none; border-radius: var(--radius); cursor: pointer; box-shadow: 0 4px 14px rgba(37,99,235,0.4); transition: background 0.15s, transform 0.15s; }
+    .btn:hover { background: var(--primary-dark); transform: translateY(-1px); text-decoration: none; color: var(--white); }
+
+    /* Sections */
+    section { padding: 3rem 0; }
+    section:nth-child(even) { background: var(--white); }
+    .section-title { margin: 0 0 0.5rem; font-size: 1.5rem; font-weight: 800; color: var(--text); letter-spacing: -0.02em; }
+    .section-lead { margin: 0 0 2rem; color: var(--muted); max-width: 42rem; }
+
+    /* Cards */
+    .cards { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
+    @media (min-width: 640px) { .cards { grid-template-columns: repeat(3, 1fr); } }
+    .card { background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.5rem; box-shadow: var(--shadow); }
+    section:nth-child(even) .card { background: var(--bg); }
+    .card .emoji { font-size: 2.25rem; line-height: 1; margin-bottom: 0.75rem; }
+    .card h3 { margin: 0 0 0.5rem; font-size: 1.1rem; font-weight: 700; color: var(--text); }
+    .card p { margin: 0; font-size: 0.95rem; color: var(--muted); }
+
+    /* Timeline */
+    .timeline { position: relative; max-width: 640px; margin: 0 auto; }
+    .timeline-item { position: relative; padding: 0 0 1.75rem 3.25rem; border-left: 3px solid var(--border); margin-left: 1rem; }
+    .timeline-item:last-child { padding-bottom: 0; border-left-color: transparent; }
+    .timeline-item::before { content: ""; position: absolute; left: -0.65rem; top: 0; width: 1.15rem; height: 1.15rem; background: var(--primary); border: 3px solid var(--white); border-radius: 50%; box-shadow: var(--shadow); }
+    .timeline-item strong { display: block; color: var(--text); font-size: 1.05rem; margin-bottom: 0.35rem; }
+    .timeline-item p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+    /* Pricing */
+    .price-wrap { overflow-x: auto; border-radius: var(--radius); border: 1px solid var(--border); box-shadow: var(--shadow-lg); background: var(--white); }
+    .price-table { width: 100%; min-width: 520px; border-collapse: collapse; font-size: 0.95rem; }
+    .price-table th, .price-table td { padding: 1rem 1.1rem; text-align: center; border-bottom: 1px solid var(--border); }
+    .price-table thead th { background: var(--bg); font-weight: 700; color: var(--text); }
+    .price-table thead th.featured { background: var(--primary); color: var(--white); box-shadow: inset 0 -4px 0 rgba(0,0,0,0.08); }
+    .price-table thead th.featured small { display: block; font-weight: 600; font-size: 0.7rem; opacity: 0.95; margin-top: 0.25rem; text-transform: uppercase; letter-spacing: 0.06em; }
+    .price-table tbody td { background: var(--white); color: var(--text); }
+    .price-table tbody td.featured { background: var(--primary-light); font-weight: 700; color: var(--primary-dark); border-left: 2px solid var(--primary); border-right: 2px solid var(--primary); }
+    .price-table tbody tr:last-child td { border-bottom: none; }
+    .price-table .row-label { text-align: left; font-weight: 600; color: var(--muted); background: var(--bg) !important; width: 28%; }
+
+    /* Reviews */
+    .reviews { display: grid; grid-template-columns: 1fr; gap: 1.25rem; }
+    @media (min-width: 768px) { .reviews { grid-template-columns: repeat(3, 1fr); } }
+    .review { background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.5rem; box-shadow: var(--shadow); }
+    .review .stars { color: #FBBF24; font-size: 1rem; letter-spacing: 0.05em; margin-bottom: 0.75rem; }
+    .review blockquote { margin: 0 0 1rem; font-size: 0.95rem; color: var(--text); font-style: normal; line-height: 1.55; }
+    .review cite { font-size: 0.85rem; font-style: normal; color: var(--muted); font-weight: 600; }
+
+    /* FAQ */
+    .faq { max-width: 720px; }
+    .faq-item { border-bottom: 1px solid var(--border); padding: 1.25rem 0; }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-item summary { font-weight: 700; font-size: 1rem; color: var(--text); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 1rem; }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-item summary::after { content: "+"; font-size: 1.4rem; color: var(--primary); font-weight: 400; flex-shrink: 0; }
+    .faq-item[open] summary::after { content: "−"; }
+    .faq-item p { margin: 0.75rem 0 0; color: var(--muted); font-size: 0.95rem; line-height: 1.65; }
+
+    /* Oblast */
+    .oblast { background: var(--primary-light); border: 1px solid #BFDBFE; border-radius: var(--radius); padding: 1.75rem; margin-top: 0; }
+    .oblast h3 { margin: 0 0 0.5rem; color: var(--primary-dark); font-size: 1.1rem; }
+    .oblast p { margin: 0; color: var(--primary-dark); font-size: 0.95rem; opacity: 0.9; }
+
+    /* CTA banner */
+    .cta-banner { background: var(--primary); color: var(--white); border-radius: var(--radius); padding: 2.5rem 2rem; text-align: center; margin-top: 0; }
+    .cta-banner h2 { margin: 0 0 0.5rem; font-size: 1.5rem; font-weight: 800; color: var(--white); }
+    .cta-banner p { margin: 0 0 1.5rem; opacity: 0.9; font-size: 1rem; }
+    .btn-white { background: var(--white); color: var(--primary); box-shadow: 0 4px 14px rgba(0,0,0,0.15); }
+    .btn-white:hover { background: var(--bg); color: var(--primary-dark); }
+
+    /* Footer */
+    footer { background: var(--text); color: rgba(255,255,255,0.88); padding: 2.5rem 0; }
+    footer a { color: #93C5FD; }
+    footer a:hover { color: var(--white); text-decoration: none; }
+    .footer-grid { display: grid; gap: 2rem; }
+    @media (min-width: 640px) { .footer-grid { grid-template-columns: 1fr 1fr; align-items: start; } }
+    footer h3 { margin: 0 0 0.75rem; font-size: 1rem; font-weight: 700; color: var(--white); }
+    footer p { margin: 0; font-size: 0.95rem; line-height: 1.65; }
+    .footer-contact p { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body data-city-slug="karlovy-vary">
+
+  <nav class="nav" aria-label="Hlavní navigace">
+    <div class="container nav-inner">
+      <a href="#" class="logo">Stěhování <span>CZ</span></a>
+      <a class="nav-phone" href="tel:+420 123 456 789">📞 +420 123 456 789</a>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container">
+      <p class="trust">Naše karlovarská stěhovací firma · kraj Karlovarský kraj</p>
+      <h1>Stěhování Karlovy Vary</h1>
+      <p class="sub">Působíme v Karlových Varech již 10 let. Kompletní servis od balení po vyložení — rychle, bezpečně a za jasně stanovenou cenu.</p>
+      <a class="btn" href="tel:+420 123 456 789">📞 Zavolat a domluvit termín</a>
+    </div>
+  </header>
+
+  <main>
+
+    <section aria-labelledby="proc">
+      <div class="container">
+        <h2 id="proc" class="section-title">Proč nás v Karlových Varech doporučují sousedé</h2>
+        <p class="section-lead">Známe místní komunikace i typické domy v Karlových Varech. Spolupracujeme s developery i společenstvími vlastníků v kraji Karlovarský kraj.</p>
+        <div class="cards">
+          <article class="card">
+            <div class="emoji" aria-hidden="true">⚡</div>
+            <h3>Rychlé termíny</h3>
+            <p>Volné termíny i o víkendech. Stěhování Karlovy Vary domluvíme do 24 hodin od poptávky.</p>
+          </article>
+          <article class="card">
+            <div class="emoji" aria-hidden="true">🛡️</div>
+            <h3>Pojištění nákladu</h3>
+            <p>Nábytek i elektronika pod dekly a popruhy. Odpovědnost kryjeme smluvně — klid v Karlových Varech i na sídlištích.</p>
+          </article>
+          <article class="card">
+            <div class="emoji" aria-hidden="true">📋</div>
+            <h3>Cena předem</h3>
+            <p>Transparentní kalkulace podle m³ a patra. Žádné doplatky za „schody navíc", pokud jsou v nabídce.</p>
+          </article>
+        </div>
+
+        <br>
+        <div class="oblast">
+          <h3>📍 Oblasti kde stěhujeme</h3>
+          <p>Působíme v Karlových Varech a v celém kraji Karlovarský kraj. Stěhujeme byty, kanceláře i celé domy — ať jde o přesun přes ulici nebo do druhého konce republiky.</p>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="postup">
+      <div class="container">
+        <h2 id="postup" class="section-title">Jak stěhování Karlovy Vary probíhá</h2>
+        <p class="section-lead">Čtyři jasné kroky — od prvního hovoru po předání bytu v Karlových Varech.</p>
+        <div class="timeline">
+          <div class="timeline-item">
+            <strong>1. Poptávka a prohlídka</strong>
+            <p>Ozvete se telefonicky nebo e-mailem. Dle rozsahu domluvíme prohlídku nebo video prohlídku v Karlových Varech.</p>
+          </div>
+          <div class="timeline-item">
+            <strong>2. Nabídka a rezervace</strong>
+            <p>Do 24 hodin pošleme cenový odhad a navrhneme termín. Po odsouhlasení rezervujeme auto a posádku.</p>
+          </div>
+          <div class="timeline-item">
+            <strong>3. Den stěhování</strong>
+            <p>Přijedeme v čas, zabalíme citlivé věci, naložíme nábytek a bezpečně převezeme na novou adresu v kraji Karlovarský kraj.</p>
+          </div>
+          <div class="timeline-item">
+            <strong>4. Vyložení a předání</strong>
+            <p>Umístíme skříně i spotřebiče dle plánku, odstraníme obaly a zkontrolujeme spolu stav nábytku.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="cenik">
+      <div class="container">
+        <h2 id="cenik" class="section-title">Orientační ceník stěhování Karlovy Vary</h2>
+        <p class="section-lead">Ceny jsou orientační — přesnou částku dopočítáme podle vzdálenosti a patra. Střední sloupec odpovídá nejčastější poptávce v Karlových Varech.</p>
+        <div class="price-wrap">
+          <table class="price-table">
+            <thead>
+              <tr>
+                <th class="row-label" scope="col"></th>
+                <th scope="col">Byt 1+1</th>
+                <th class="featured" scope="col">Byt 2+1 <small>Nejčastěji</small></th>
+                <th scope="col">Byt 3+1</th>
+                <th scope="col">Dům</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th class="row-label" scope="row">Cena od</th>
+                <td>8 500 Kč</td>
+                <td class="featured">12 000 Kč</td>
+                <td>16 500 Kč</td>
+                <td>22 000 Kč</td>
+              </tr>
+              <tr>
+                <th class="row-label" scope="row">Odhad hodin</th>
+                <td>3–4 hod</td>
+                <td class="featured">5–7 hod</td>
+                <td>7–10 hod</td>
+                <td>1–2 dny</td>
+              </tr>
+              <tr>
+                <th class="row-label" scope="row">Počet mužů</th>
+                <td>2</td>
+                <td class="featured">2–3</td>
+                <td>3</td>
+                <td>3–4</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="recenze">
+      <div class="container">
+        <h2 id="recenze" class="section-title">Co říkají zákazníci v Karlových Varech</h2>
+        <p class="section-lead">Skutečné zkušenosti domácností, které jsme stěhovali v Karlových Varech a v okolí.</p>
+        <div class="reviews">
+          <article class="review">
+            <div class="stars" aria-label="5 z 5 hvězd">★★★★★</div>
+            <blockquote>„Stěhovali jsme třípokojový byt za jeden den. Kluci přišli na čas, všechno zabalili dekami a na novém místě složili skříně přesně podle plánku. Cena odpovídala nabídce."</blockquote>
+            <cite>— Petr N., Karlovy Vary</cite>
+          </article>
+          <article class="review">
+            <div class="stars" aria-label="5 z 5 hvězd">★★★★★</div>
+            <blockquote>„Potřebovali jsme rychle přesunout kancelář v centru. Domluva byla bez zbytečných e-mailů, faktura přišla s položkami, jak jsme se domluvili. Doporučuji."</blockquote>
+            <cite>— Lenka V., podnikatelka, Karlovarský kraj</cite>
+          </article>
+          <article class="review">
+            <div class="stars" aria-label="5 z 5 hvězd">★★★★★</div>
+            <blockquote>„Měli jsme strach ze starého výtahu — nakonec to vyřešili štokem a popruhy. Nic se nepoškodilo, personál byl slušný a pracovitý. Příště voláme znovu."</blockquote>
+            <cite>— Martin a Jana K., Karlovy Vary</cite>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section aria-labelledby="faq">
+      <div class="container">
+        <h2 id="faq" class="section-title">Časté otázky — stěhování Karlovy Vary</h2>
+        <p class="section-lead">Odpovědi na to, co nás v Karlových Varech zákazníci ptají nejčastěji.</p>
+        <div class="faq">
+          <details class="faq-item">
+            <summary>Kolik stojí stěhování v Karlových Varech?</summary>
+            <p>Cena závisí na velikosti bytu, počtu pater a vzdálenosti. Orientačně byt 2+1 v Karlových Varech vychází od 12 000 Kč. Přesnou nabídku zašleme do 24 hodin zdarma.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Jak dlouho trvá stěhování bytu v Karlových Varech?</summary>
+            <p>Byt 2+1 zvládneme v Karlových Varech obvykle za 5–7 hodin. Záleží na přístupu k výtahu, vzdálenosti a množství nábytku.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Stěhujete i o víkendu v Karlových Varech?</summary>
+            <p>Ano, operujeme v Karlových Varech 7 dní v týdnu včetně sobot a nedělí. Víkendové termíny jsou oblíbené — doporučujeme rezervovat s předstihem.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Jak probíhá cenová nabídka v Karlových Varech?</summary>
+            <p>Stačí nám zavolat nebo napsat. Dle rozsahu domluvíme krátkou prohlídku nebo video hovor. Nabídku zasíláme e-mailem s rozpisem položek — bez závazků.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Pojistíte nábytek při stěhování v Karlových Varech?</summary>
+            <p>Ano. Veškerý nábytek balíme do ochranných dek a fólií. Neseme smluvní odpovědnost za případné škody po celou dobu přepravy v Karlových Varech i mimo kraj Karlovarský kraj.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="cta-banner">
+          <h2>Chcete přesnou cenu stěhování Karlovy Vary?</h2>
+          <p>Zavolejte nám — nabídku připravíme zdarma do 24 hodin. Bez závazků.</p>
+          <a class="btn btn-white" href="tel:+420 123 456 789">📞 +420 123 456 789</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container footer-grid">
+      <div>
+        <h3>Stěhování CZ</h3>
+        <p>Profesionální stěhování Karlovy Vary a celý kraj Karlovarský kraj. Vlastní vozidla, zkušená posádka, férové smlouvy.</p>
+      </div>
+      <div class="footer-contact">
+        <h3>Kontakt</h3>
+        <p><a href="tel:+420 123 456 789">+420 123 456 789</a> — každý den 7:00–19:00</p>
+        <p>E-mail: <a href="mailto:info@stehovani-cz.cz">info@stehovani-cz.cz</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-VVRH8F4M03"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-VVRH8F4M03');
+  </script>
+
+</body>
+</html>
+```
