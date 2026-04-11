@@ -2,7 +2,7 @@
   {
     "mesto_1": "Praha",
     "mesto_2": "v Praze",
-    "mesto_3": "pražské",
+    "mesto_3": "pražská",
     "slug": "praha",
     "population": 1283000,
     "region": "Hlavní město Praha"
@@ -10,7 +10,7 @@
   {
     "mesto_1": "Brno",
     "mesto_2": "v Brně",
-    "mesto_3": "brněnské",
+    "mesto_3": "brněnská",
     "slug": "brno",
     "population": 379000,
     "region": "Jihomoravský kraj"
@@ -18,7 +18,7 @@
   {
     "mesto_1": "Ostrava",
     "mesto_2": "v Ostravě",
-    "mesto_3": "ostravské",
+    "mesto_3": "ostravská",
     "slug": "ostrava",
     "population": 285000,
     "region": "Moravskoslezský kraj"
@@ -26,7 +26,7 @@
   {
     "mesto_1": "Plzeň",
     "mesto_2": "v Plzni",
-    "mesto_3": "plzeňské",
+    "mesto_3": "plzeňská",
     "slug": "plzen",
     "population": 175000,
     "region": "Plzeňský kraj"
@@ -34,7 +34,7 @@
   {
     "mesto_1": "Liberec",
     "mesto_2": "v Liberci",
-    "mesto_3": "liberecké",
+    "mesto_3": "liberecká",
     "slug": "liberec",
     "population": 104000,
     "region": "Liberecký kraj"
@@ -42,7 +42,7 @@
   {
     "mesto_1": "Olomouc",
     "mesto_2": "v Olomouci",
-    "mesto_3": "olomoucké",
+    "mesto_3": "olomoucká",
     "slug": "olomouc",
     "population": 102000,
     "region": "Olomoucký kraj"
@@ -50,7 +50,7 @@
   {
     "mesto_1": "České Budějovice",
     "mesto_2": "v Českých Budějovicích",
-    "mesto_3": "českobudějovické",
+    "mesto_3": "českobudějovická",
     "slug": "ceske-budejovice",
     "population": 94000,
     "region": "Jihočeský kraj"
@@ -58,7 +58,7 @@
   {
     "mesto_1": "Hradec Králové",
     "mesto_2": "v Hradci Králové",
-    "mesto_3": "hradeckokrálovské",
+    "mesto_3": "hradeckokrálovská",
     "slug": "hradec-kralove",
     "population": 93000,
     "region": "Královéhradecký kraj"
@@ -66,7 +66,7 @@
   {
     "mesto_1": "Ústí nad Labem",
     "mesto_2": "v Ústí nad Labem",
-    "mesto_3": "ústecké",
+    "mesto_3": "ústecká",
     "slug": "usti-nad-labem",
     "population": 92000,
     "region": "Ústecký kraj"
@@ -74,7 +74,7 @@
   {
     "mesto_1": "Pardubice",
     "mesto_2": "v Pardubicích",
-    "mesto_3": "pardubické",
+    "mesto_3": "pardubická",
     "slug": "pardubice",
     "population": 91000,
     "region": "Pardubický kraj"
@@ -82,7 +82,7 @@
   {
     "mesto_1": "Zlín",
     "mesto_2": "ve Zlíně",
-    "mesto_3": "zlínské",
+    "mesto_3": "zlínská",
     "slug": "zlin",
     "population": 75000,
     "region": "Zlínský kraj"
@@ -90,7 +90,7 @@
   {
     "mesto_1": "Havířov",
     "mesto_2": "v Havířově",
-    "mesto_3": "havířovské",
+    "mesto_3": "havířovská",
     "slug": "havirov",
     "population": 70000,
     "region": "Moravskoslezský kraj"
@@ -98,7 +98,7 @@
   {
     "mesto_1": "Kladno",
     "mesto_2": "v Kladně",
-    "mesto_3": "kladenské",
+    "mesto_3": "kladenská",
     "slug": "kladno",
     "population": 69000,
     "region": "Středočeský kraj"
@@ -106,7 +106,7 @@
   {
     "mesto_1": "Most",
     "mesto_2": "v Mostě",
-    "mesto_3": "mostecké",
+    "mesto_3": "mostecká",
     "slug": "most",
     "population": 63000,
     "region": "Ústecký kraj"
@@ -114,7 +114,7 @@
   {
     "mesto_1": "Opava",
     "mesto_2": "v Opavě",
-    "mesto_3": "opavské",
+    "mesto_3": "opavská",
     "slug": "opava",
     "population": 56000,
     "region": "Moravskoslezský kraj"
@@ -122,7 +122,7 @@
   {
     "mesto_1": "Frýdek-Místek",
     "mesto_2": "ve Frýdku-Místku",
-    "mesto_3": "frýdeckomístecké",
+    "mesto_3": "frýdeckomístecká",
     "slug": "frydek-mistek",
     "population": 54000,
     "region": "Moravskoslezský kraj"
@@ -130,7 +130,7 @@
   {
     "mesto_1": "Karviná",
     "mesto_2": "v Karviné",
-    "mesto_3": "karvinské",
+    "mesto_3": "karvinská",
     "slug": "karvina",
     "population": 50000,
     "region": "Moravskoslezský kraj"
@@ -138,7 +138,7 @@
   {
     "mesto_1": "Jihlava",
     "mesto_2": "v Jihlavě",
-    "mesto_3": "jihlavské",
+    "mesto_3": "jihlavská",
     "slug": "jihlava",
     "population": 51000,
     "region": "Kraj Vysočina"
@@ -146,7 +146,7 @@
   {
     "mesto_1": "Teplice",
     "mesto_2": "v Teplicích",
-    "mesto_3": "teplické",
+    "mesto_3": "teplicická",
     "slug": "teplice",
     "population": 50000,
     "region": "Ústecký kraj"
@@ -154,9 +154,249 @@
   {
     "mesto_1": "Děčín",
     "mesto_2": "v Děčíně",
-    "mesto_3": "děčínské",
+    "mesto_3": "děčínská",
     "slug": "decin",
     "population": 47000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Mladá Boleslav",
+    "mesto_2": "v Mladé Boleslavi",
+    "mesto_3": "mladoboleslavská",
+    "slug": "mlada-boleslav",
+    "population": 44000,
+    "region": "Středočeský kraj"
+  },
+  {
+    "mesto_1": "Karlovy Vary",
+    "mesto_2": "v Karlových Varech",
+    "mesto_3": "karlovarská",
+    "slug": "karlovy-vary",
+    "population": 47000,
+    "region": "Karlovarský kraj"
+  },
+  {
+    "mesto_1": "Prostějov",
+    "mesto_2": "v Prostějově",
+    "mesto_3": "prostějovská",
+    "slug": "prostejov",
+    "population": 43000,
+    "region": "Olomoucký kraj"
+  },
+  {
+    "mesto_1": "Přerov",
+    "mesto_2": "v Přerově",
+    "mesto_3": "přerovská",
+    "slug": "prerov",
+    "population": 42000,
+    "region": "Olomoucký kraj"
+  },
+  {
+    "mesto_1": "Česká Lípa",
+    "mesto_2": "v České Lípě",
+    "mesto_3": "českolipská",
+    "slug": "ceska-lipa",
+    "population": 37000,
+    "region": "Liberecký kraj"
+  },
+  {
+    "mesto_1": "Jablonec nad Nisou",
+    "mesto_2": "v Jablonci nad Nisou",
+    "mesto_3": "jablonecká",
+    "slug": "jablonec-nad-nisou",
+    "population": 44000,
+    "region": "Liberecký kraj"
+  },
+  {
+    "mesto_1": "Třebíč",
+    "mesto_2": "v Třebíči",
+    "mesto_3": "třebíčská",
+    "slug": "trebic",
+    "population": 35000,
+    "region": "Kraj Vysočina"
+  },
+  {
+    "mesto_1": "Znojmo",
+    "mesto_2": "ve Znojmě",
+    "mesto_3": "znojemská",
+    "slug": "znojmo",
+    "population": 33000,
+    "region": "Jihomoravský kraj"
+  },
+  {
+    "mesto_1": "Příbram",
+    "mesto_2": "v Příbrami",
+    "mesto_3": "příbramská",
+    "slug": "pribram",
+    "population": 32000,
+    "region": "Středočeský kraj"
+  },
+  {
+    "mesto_1": "Chomutov",
+    "mesto_2": "v Chomutově",
+    "mesto_3": "chomutovská",
+    "slug": "chomutov",
+    "population": 47000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Cheb",
+    "mesto_2": "v Chebu",
+    "mesto_3": "chebská",
+    "slug": "cheb",
+    "population": 32000,
+    "region": "Karlovarský kraj"
+  },
+  {
+    "mesto_1": "Kroměříž",
+    "mesto_2": "v Kroměříži",
+    "mesto_3": "kroměřížská",
+    "slug": "kromeriz",
+    "population": 28000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Uherské Hradiště",
+    "mesto_2": "v Uherském Hradišti",
+    "mesto_3": "uherskohradišťská",
+    "slug": "uherske-hradiste",
+    "population": 24000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Trutnov",
+    "mesto_2": "v Trutnově",
+    "mesto_3": "trutnovská",
+    "slug": "trutnov",
+    "population": 30000,
+    "region": "Královéhradecký kraj"
+  },
+  {
+    "mesto_1": "Písek",
+    "mesto_2": "v Písku",
+    "mesto_3": "písecká",
+    "slug": "pisek",
+    "population": 29000,
+    "region": "Jihočeský kraj"
+  },
+  {
+    "mesto_1": "Kolín",
+    "mesto_2": "v Kolíně",
+    "mesto_3": "kolínská",
+    "slug": "kolin",
+    "population": 30000,
+    "region": "Středočeský kraj"
+  },
+  {
+    "mesto_1": "Šumperk",
+    "mesto_2": "v Šumperku",
+    "mesto_3": "šumperská",
+    "slug": "sumperk",
+    "population": 26000,
+    "region": "Olomoucký kraj"
+  },
+  {
+    "mesto_1": "Vsetín",
+    "mesto_2": "ve Vsetíně",
+    "mesto_3": "vsetínská",
+    "slug": "vsetin",
+    "population": 26000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Nový Jičín",
+    "mesto_2": "v Novém Jičíně",
+    "mesto_3": "novojičínská",
+    "slug": "novy-jicin",
+    "population": 23000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Blansko",
+    "mesto_2": "v Blansku",
+    "mesto_3": "blanenská",
+    "slug": "blansko",
+    "population": 20000,
+    "region": "Jihomoravský kraj"
+  },
+  {
+    "mesto_1": "Břeclav",
+    "mesto_2": "v Břeclavi",
+    "mesto_3": "břeclavská",
+    "slug": "breclav",
+    "population": 24000,
+    "region": "Jihomoravský kraj"
+  },
+  {
+    "mesto_1": "Hodonín",
+    "mesto_2": "v Hodoníně",
+    "mesto_3": "hodonínská",
+    "slug": "hodonin",
+    "population": 24000,
+    "region": "Jihomoravský kraj"
+  },
+  {
+    "mesto_1": "Krnov",
+    "mesto_2": "v Krnově",
+    "mesto_3": "krnovská",
+    "slug": "krnov",
+    "population": 23000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Kopřivnice",
+    "mesto_2": "v Kopřivnici",
+    "mesto_3": "kopřivnická",
+    "slug": "koprivnice",
+    "population": 22000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Valašské Meziříčí",
+    "mesto_2": "ve Valašském Meziříčí",
+    "mesto_3": "valašskomeziříčská",
+    "slug": "valasske-mezirici",
+    "population": 22000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Litoměřice",
+    "mesto_2": "v Litoměřicích",
+    "mesto_3": "litoměřická",
+    "slug": "litomerice",
+    "population": 23000,
+    "region": "Ústecký kraj"
+  },
+  {
+    "mesto_1": "Sokolov",
+    "mesto_2": "v Sokolově",
+    "mesto_3": "sokolovská",
+    "slug": "sokolov",
+    "population": 23000,
+    "region": "Karlovarský kraj"
+  },
+  {
+    "mesto_1": "Rožnov pod Radhoštěm",
+    "mesto_2": "v Rožnově pod Radhoštěm",
+    "mesto_3": "rožnovská",
+    "slug": "roznov-pod-radhostem",
+    "population": 16000,
+    "region": "Zlínský kraj"
+  },
+  {
+    "mesto_1": "Frýdlant nad Ostravicí",
+    "mesto_2": "ve Frýdlantu nad Ostravicí",
+    "mesto_3": "frýdlantská",
+    "slug": "frydlant-nad-ostravici",
+    "population": 10000,
+    "region": "Moravskoslezský kraj"
+  },
+  {
+    "mesto_1": "Litvínov",
+    "mesto_2": "v Litvínově",
+    "mesto_3": "litvínovská",
+    "slug": "litvinov",
+    "population": 23000,
     "region": "Ústecký kraj"
   }
 ]
