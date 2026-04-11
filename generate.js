@@ -47,7 +47,8 @@ for (const city of cities) {
     .replaceAll("{{MESTO_3}}", city.mesto_3)
     .replaceAll("{{SLUG}}", city.slug)
     .replaceAll("{{KRAJ}}", city.region)
-    .replaceAll("{{TELEFON}}", TELEFON);
+    .replaceAll("{{TELEFON}}", TELEFON)
+    .replaceAll("{{POPIS}}", escapeHtml(city.popis));
 
   const outPath = path.join(paths.outputDir, `stehovani-${city.slug}.html`);
   fs.writeFileSync(outPath, html, "utf8");

@@ -5,7 +5,8 @@
     "mesto_3": "pražská",
     "slug": "praha",
     "population": 1283000,
-    "region": "Hlavní město Praha"
+    "region": "Hlavní město Praha",
+    "popis": "Praha je největší české město s přibližně 1,3 milionem obyvatel a leží v samostatném hlavním městě. Mezi čtvrtěmi, kde často stěhujeme domácnosti, patří Žižkov, Vinohrady, Dejvice nebo Holešovice — řešíme úzké vchody, výtahy v panelácích i rezervace parkování u domu."
   },
   {
     "mesto_1": "Brno",
@@ -13,7 +14,8 @@
     "mesto_3": "brněnská",
     "slug": "brno",
     "population": 379000,
-    "region": "Jihomoravský kraj"
+    "region": "Jihomoravský kraj",
+    "popis": "Brno má kolem 380 tisíc obyvatel a je centrem Jihomoravského kraje s výrazným univerzitním životem. Stěhování bývá nejčastější mezi Královým Polem, Lesnou, Líšní a centrem — u studentských podnájmů i rodinných domů na okrajích."
   },
   {
     "mesto_1": "Ostrava",
@@ -21,7 +23,8 @@
     "mesto_3": "ostravská",
     "slug": "ostrava",
     "population": 285000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Ostrava je třetí největší město ČR s téměř 300 tisíci obyvateli a průmyslovou tradicí v Moravskoslezském kraji. Často jezdíme mezi Porubou, Mariánskými Hory, Vítkovicemi a centrem — zvládneme panelové vchody i přesuny do rodinných domů v okrajových částech."
   },
   {
     "mesto_1": "Plzeň",
@@ -29,7 +32,8 @@
     "mesto_3": "plzeňská",
     "slug": "plzen",
     "population": 175000,
-    "region": "Plzeňský kraj"
+    "region": "Plzeňský kraj",
+    "popis": "Plzeň čítá zhruba 175 tisíc obyvatel a je srdcem Plzeňského kraje s pivovarskou historií. Stěhujeme z Bolevce, Slovany, Lochotína i z centra — umíme si poradit s úzkými uličkami u náměstí i s novostavbami na okrajích města."
   },
   {
     "mesto_1": "Liberec",
@@ -37,7 +41,8 @@
     "mesto_3": "liberecká",
     "slug": "liberec",
     "population": 104000,
-    "region": "Liberecký kraj"
+    "region": "Liberecký kraj",
+    "popis": "Liberec má přes 100 tisíc obyvatel a leží pod Ještědem v Libereckém kraji. Přesuny mezi Rochlicí, Ruprechticemi, centrem a Horním Hanychem patří k našim běžným zakázkám — počítáme s kopcovitým terénem i zimní údržbou při stěhování."
   },
   {
     "mesto_1": "Olomouc",
@@ -45,7 +50,8 @@
     "mesto_3": "olomoucká",
     "slug": "olomouc",
     "population": 102000,
-    "region": "Olomoucký kraj"
+    "region": "Olomoucký kraj",
+    "popis": "Olomouc je krajské město s více než 100 tisíci obyvateli a barokním jádrem. Často stěhujeme mezi Neředínem, Povelí, Novými Sady a historickým centrem — šetrně k parkům i k bytům v cihlových domech."
   },
   {
     "mesto_1": "České Budějovice",
@@ -53,7 +59,8 @@
     "mesto_3": "českobudějovická",
     "slug": "ceske-budejovice",
     "population": 94000,
-    "region": "Jihočeský kraj"
+    "region": "Jihočeský kraj",
+    "popis": "České Budějovice mají kolem 94 tisíc obyvatel a jsou metropolí Jihočeského kraje u řeky Vltavy. Stěhování řešíme v Čtyřech Dvorech, na Máji, na sídlišti Vltava i v centru u Přemysla Otakara II. — od bytů po rodinné domy na okrajích města."
   },
   {
     "mesto_1": "Hradec Králové",
@@ -61,7 +68,8 @@
     "mesto_3": "hradeckokrálovská",
     "slug": "hradec-kralove",
     "population": 93000,
-    "region": "Královéhradecký kraj"
+    "region": "Královéhradecký kraj",
+    "popis": "Hradec Králové má přibližně 93 tisíc obyvatel a leží na soutoku Labe a Orlice v Královéhradeckém kraji. Mezi Moravským Předměstím, Novým Hradcem, Plačicemi a centrem převážíme nábytek denně — známe místní panelové i vilové čtvrti."
   },
   {
     "mesto_1": "Ústí nad Labem",
@@ -69,7 +77,8 @@
     "mesto_3": "ústecká",
     "slug": "usti-nad-labem",
     "population": 92000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Ústí nad Labem čítá asi 92 tisíc obyvatel a je centrem Ústeckého kraje nad Labem. Stěhujeme mezi Střekovem, Severní terasou, Klíšem a centrem — často řešíme patra bez výtahu a přístup k domům ve svahu."
   },
   {
     "mesto_1": "Pardubice",
@@ -77,7 +86,8 @@
     "mesto_3": "pardubická",
     "slug": "pardubice",
     "population": 91000,
-    "region": "Pardubický kraj"
+    "region": "Pardubický kraj",
+    "popis": "Pardubice mají kolem 91 tisíc obyvatel a jsou známé dostihy i perníkem v Pardubickém kraji. Zakázky máme často z Polabin, na Zeleném předměstí, v Doubravce i v historickém jádru — stěhování bytů i firemních kanceláří."
   },
   {
     "mesto_1": "Zlín",
@@ -85,7 +95,8 @@
     "mesto_3": "zlínská",
     "slug": "zlin",
     "population": 75000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Zlín má přibližně 75 tisíc obyvatel a je spojený s baťovskou tradicí ve Zlínském kraji. Mezi Jižními Svahy, Letnou, Malenovicemi a centrem stěhujeme rodiny i studenty — umíme práci s vysokými domy i rodinnými vilami."
   },
   {
     "mesto_1": "Havířov",
@@ -93,7 +104,8 @@
     "mesto_3": "havířovská",
     "slug": "havirov",
     "population": 70000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Havířov má asi 70 tisíc obyvatel a vznikl jako sídlištní město v Moravskoslezském kraji. Panelové sídliště v Podlesí, Šumbarku nebo Bludově známe nazpaměť — stěhování včetně montáže nábytku a výtahu v bytech."
   },
   {
     "mesto_1": "Kladno",
@@ -101,7 +113,8 @@
     "mesto_3": "kladenská",
     "slug": "kladno",
     "population": 69000,
-    "region": "Středočeský kraj"
+    "region": "Středočeský kraj",
+    "popis": "Kladno má kolem 69 tisíc obyvatel a patří k největším městům Středočeského kraje. Stěhování z Kročehlav, Dubí, Švermova i z centra směrem do Prahy nebo do okolí řešíme často — klienti oceňují rychlé naložení a přesný čas příjezdu."
   },
   {
     "mesto_1": "Most",
@@ -109,7 +122,8 @@
     "mesto_3": "mostecká",
     "slug": "most",
     "population": 63000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Most má přibližně 63 tisíc obyvatel a leží v hnědouhelném regionu Ústeckého kraje. Mezi Velebudicemi, starým centrem a sídlišti stěhujeme byty i rodinné domy — zohledňujeme úzké uličky a parkování u panelových domů."
   },
   {
     "mesto_1": "Opava",
@@ -117,7 +131,8 @@
     "mesto_3": "opavská",
     "slug": "opava",
     "population": 56000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Opava je historické město s asi 56 tisíci obyvateli na severu Moravskoslezského kraje. Přesuny mezi Kylešovicemi, Předměstím a centrem u Slezského divadla zvládáme i s těžkým nábytkem do starších domů."
   },
   {
     "mesto_1": "Frýdek-Místek",
@@ -125,7 +140,8 @@
     "mesto_3": "frýdeckomístecká",
     "slug": "frydek-mistek",
     "population": 54000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Frýdek-Místek spojuje dvě části s celkem přes 54 tisíci obyvateli v Moravskoslezském kraji. Stěhujeme mezi Frýdkem, Místkem, Lískovcem a okrajovými částmi — často krátké vzdálenosti mezi rodinnými domy a byty."
   },
   {
     "mesto_1": "Karviná",
@@ -133,7 +149,8 @@
     "mesto_3": "karvinská",
     "slug": "karvina",
     "population": 50000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Karviná má kolem 50 tisíc obyvatel na rozhraní s Polskem v Moravskoslezském kraji. V Darkově, Ráji, Fryštátě i na sídlištích zajišťujeme stěhování bytů — známe místní komunikace a vchody do paneláků."
   },
   {
     "mesto_1": "Jihlava",
@@ -141,7 +158,8 @@
     "mesto_3": "jihlavská",
     "slug": "jihlava",
     "population": 51000,
-    "region": "Kraj Vysočina"
+    "region": "Kraj Vysočina",
+    "popis": "Jihlava je krajské město Vysočiny s více než 51 tisíci obyvateli. Mezi Helenínem, Březinami, centrem u Masarykova náměstí a okrajovými ulicemi stěhujeme domácnosti i firmy — počítáme s kopcovitým okolím a úzkými průjezdy."
   },
   {
     "mesto_1": "Teplice",
@@ -149,7 +167,8 @@
     "mesto_3": "teplicická",
     "slug": "teplice",
     "population": 50000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Teplice mají asi 50 tisíc obyvatel a lázeňskou tradici v Ústeckém kraji. Stěhování z Šanov, Trnovan, Sobědruh a z lázeňské kolonády vyžaduje ohled k provozu i k citlivým interiérům — rádi domluvíme čas mimo špičku."
   },
   {
     "mesto_1": "Děčín",
@@ -157,7 +176,8 @@
     "mesto_3": "děčínská",
     "slug": "decin",
     "population": 47000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Děčín leží v údolí Labe a má kolem 47 tisíc obyvatel v Ústeckém kraji. Mezi Podmokly, Rozbělesy, Starým městem a sídlišti na svazích často řešíme stěhování po schodech — máme vybavení na těžší kusy a dlouhé chodby v panelácích."
   },
   {
     "mesto_1": "Mladá Boleslav",
@@ -165,7 +185,8 @@
     "mesto_3": "mladoboleslavská",
     "slug": "mlada-boleslav",
     "population": 44000,
-    "region": "Středočeský kraj"
+    "region": "Středočeský kraj",
+    "popis": "Mladá Boleslav má přibližně 44 tisíc obyvatel a je spojená s automobilovým průmyslem ve Středočeském kraji. Mezi Bezďěkovem, Podlací, centrem a novými developerskými projekty stěhujeme často zaměstnance firem i rodiny z okolních obcí."
   },
   {
     "mesto_1": "Karlovy Vary",
@@ -173,7 +194,8 @@
     "mesto_3": "karlovarská",
     "slug": "karlovy-vary",
     "population": 47000,
-    "region": "Karlovarský kraj"
+    "region": "Karlovarský kraj",
+    "popis": "Karlovy Vary mají kolem 47 tisíc obyvatel a jsou světově známé lázně v Karlovarském kraji. Stěhování z Drahovic, Rybářů, kolonády i z okrajových vilových čtvrtí provádíme ohleduplně k turistickému ruchu — často krátké trasy mezi nájemními byty."
   },
   {
     "mesto_1": "Prostějov",
@@ -181,7 +203,8 @@
     "mesto_3": "prostějovská",
     "slug": "prostejov",
     "population": 43000,
-    "region": "Olomoucký kraj"
+    "region": "Olomoucký kraj",
+    "popis": "Prostějov má asi 43 tisíc obyvatel a leží v textilním regionu Olomouckého kraje. Mezi Krasice, Žešovem, centrem u náměstí T. G. Masaryka a sídlišti zajišťujeme stěhování bytů i rodinných domů v okolí."
   },
   {
     "mesto_1": "Přerov",
@@ -189,7 +212,8 @@
     "mesto_3": "přerovská",
     "slug": "prerov",
     "population": 42000,
-    "region": "Olomoucký kraj"
+    "region": "Olomoucký kraj",
+    "popis": "Přerov má kolem 42 tisíc obyvatel u řeky Bečvy v Olomouckém kraji. Často stěhujeme mezi Předmostím, Lověšicemi, centrem a sídlišti u nádraží — řešíme i přesuny do okolních obcí podél hlavního tahu."
   },
   {
     "mesto_1": "Česká Lípa",
@@ -197,7 +221,8 @@
     "mesto_3": "českolipská",
     "slug": "ceska-lipa",
     "population": 37000,
-    "region": "Liberecký kraj"
+    "region": "Liberecký kraj",
+    "popis": "Česká Lípa má přibližně 37 tisíc obyvatel v Libereckém kraji pod Lužickými horami. Stěhování z centra, z Letné, z Dubice nebo z okrajových rodinných čtvrtí známe dobře — v létě počítáme s turistickým provozem na příjezdových cestách."
   },
   {
     "mesto_1": "Jablonec nad Nisou",
@@ -205,7 +230,8 @@
     "mesto_3": "jablonecká",
     "slug": "jablonec-nad-nisou",
     "population": 44000,
-    "region": "Liberecký kraj"
+    "region": "Liberecký kraj",
+    "popis": "Jablonec nad Nisou má kolem 44 tisíc obyvatel a tradici sklářství v Libereckém kraji. Mezi Mšenem, Kokonínem, centrem a předměstími u řeky Nisy stěhujeme byty i dílny — zvláště opatrně s citlivým zbožím a sklem."
   },
   {
     "mesto_1": "Třebíč",
@@ -213,7 +239,8 @@
     "mesto_3": "třebíčská",
     "slug": "trebic",
     "population": 35000,
-    "region": "Kraj Vysočina"
+    "region": "Kraj Vysočina",
+    "popis": "Třebíč čítá asi 35 tisíc obyvatel a je zapsaná na seznamu UNESCO v Kraji Vysočina. Přesuny mezi Borovinou, Novým městem, židovskou čtvrtí a sídlišti řešíme často pro rodiny i studenty — úzké uličky ve starém městě vyžadují zkušenou posádku."
   },
   {
     "mesto_1": "Znojmo",
@@ -221,7 +248,8 @@
     "mesto_3": "znojemská",
     "slug": "znojmo",
     "population": 33000,
-    "region": "Jihomoravský kraj"
+    "region": "Jihomoravský kraj",
+    "popis": "Znojmo má přibližně 33 tisíc obyvatel u hranic s Rakouskem v Jihomoravském kraji. Stěhujeme z Přímětic, Kraví hory, centra pod hradem i z nových bytů u Dyje — časté jsou přesuny mezi centrem a okrajovými rodinnými zástavbami."
   },
   {
     "mesto_1": "Příbram",
@@ -229,7 +257,8 @@
     "mesto_3": "příbramská",
     "slug": "pribram",
     "population": 32000,
-    "region": "Středočeský kraj"
+    "region": "Středočeský kraj",
+    "popis": "Příbram má kolem 32 tisíc obyvatel pod Brdy ve Středočeském kraji. Mezi Březovými Horami, centrem, sídlišti a rodinnými domy na okrajích stěhujeme často hornické rodiny i nové obyvatele z Prahy — známe příjezdy do kopcovitého terénu."
   },
   {
     "mesto_1": "Chomutov",
@@ -237,7 +266,8 @@
     "mesto_3": "chomutovská",
     "slug": "chomutov",
     "population": 47000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Chomutov má přibližně 47 tisíc obyvatel v severních Čechách v Ústeckém kraji. Zakázky máme z Kamence, centra, Zahradního města i z panelových sídlišť — stěhování často kombinujeme s vyklízením po rekonstrukcích."
   },
   {
     "mesto_1": "Cheb",
@@ -245,7 +275,8 @@
     "mesto_3": "chebská",
     "slug": "cheb",
     "population": 32000,
-    "region": "Karlovarský kraj"
+    "region": "Karlovarský kraj",
+    "popis": "Cheb má asi 32 tisíc obyvatel u trojmezí v Karlovarském kraji. Mezi Hradištěm, centrem u Špalíčku, sídlišti a rodinnými domy u Ohře stěhujeme domácnosti i podnikatele — blízkost Německa znamená časté přeshraniční přesuny."
   },
   {
     "mesto_1": "Kroměříž",
@@ -253,7 +284,8 @@
     "mesto_3": "kroměřížská",
     "slug": "kromeriz",
     "population": 28000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Kroměříž je okresní město s přibližně 28 tisíci obyvateli a arcibiskupským zámkem ve Zlínském kraji. Stěhujeme z centra u zámku, z Vážan, z linecké čtvrti i z panelových sídlišť — šetrně k historickému rázu města a k úzkým uličkám."
   },
   {
     "mesto_1": "Uherské Hradiště",
@@ -261,7 +293,8 @@
     "mesto_3": "uherskohradišťská",
     "slug": "uherske-hradiste",
     "population": 24000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Uherské Hradiště má kolem 24 tisíc obyvatel v centru Slovácka ve Zlínském kraji. Mezi Mařaticemi, Jarošovem, centrem a sídlištěm Štěpnice převážíme nábytek často při výměně bytů — známe místní festivalové dny a dopravní omezení."
   },
   {
     "mesto_1": "Trutnov",
@@ -269,7 +302,8 @@
     "mesto_3": "trutnovská",
     "slug": "trutnov",
     "population": 30000,
-    "region": "Královéhradecký kraj"
+    "region": "Královéhradecký kraj",
+    "popis": "Trutnov má asi 30 tisíc obyvatel pod Krkonošemi v Královéhradeckém kraji. Stěhujeme z Poříčí, centra, z Liščího údolí i z okrajových vil — v zimě počítáme se sněhem a v létě s turisty na silnicích směrem do hor."
   },
   {
     "mesto_1": "Písek",
@@ -277,7 +311,8 @@
     "mesto_3": "písecká",
     "slug": "pisek",
     "population": 29000,
-    "region": "Jihočeský kraj"
+    "region": "Jihočeský kraj",
+    "popis": "Písek má přibližně 29 tisíc obyvatel u řeky Otavy v Jihočeském kraji. Mezi Pražským předměstím, Březovým sídlištěm, centrem s kamenným mostem a novými zástavbami stěhujeme studenty i rodiny — časté jsou krátké trasy v rámci města."
   },
   {
     "mesto_1": "Kolín",
@@ -285,7 +320,8 @@
     "mesto_3": "kolínská",
     "slug": "kolin",
     "population": 30000,
-    "region": "Středočeský kraj"
+    "region": "Středočeský kraj",
+    "popis": "Kolín má kolem 30 tisíc obyvatel na Labi ve Středočeském kraji. Mezi Kutnohorským předměstím, Zálabím, centrem a novými byty u nádraží zajišťujeme stěhování do Prahy i v rámci města — časté jsou rodiny z okolních vesnic."
   },
   {
     "mesto_1": "Šumperk",
@@ -293,7 +329,8 @@
     "mesto_3": "šumperská",
     "slug": "sumperk",
     "population": 26000,
-    "region": "Olomoucký kraj"
+    "region": "Olomoucký kraj",
+    "popis": "Šumperk má přibližně 26 tisíc obyvatel v Jeseníkách v Olomouckém kraji. Stěhujeme z centra, z Rapotína, z sídlišť a z rodinných domů na svazích — v zimě řešíme kluzké příjezdy a sníh kolem domů."
   },
   {
     "mesto_1": "Vsetín",
@@ -301,7 +338,8 @@
     "mesto_3": "vsetínská",
     "slug": "vsetin",
     "population": 26000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Vsetín má asi 26 tisíc obyvatel pod Beskydy ve Zlínském kraji. Mezi Rokytnicí, Horním městem, sídlišti a průmyslovou zónou stěhujeme často pracovníky z okolních firem — známe přístupy k panelákům i k rodinným domům v údolí."
   },
   {
     "mesto_1": "Nový Jičín",
@@ -309,7 +347,8 @@
     "mesto_3": "novojičínská",
     "slug": "novy-jicin",
     "population": 23000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Nový Jičín má kolem 23 tisíc obyvatel pod Beskydy v Moravskoslezském kraji. Přesuny mezi Žilinskou, centrem u Masarykova náměstí a okrajovými částmi u dálnice patří k našim běžným trasám — stěhování bytů i menších firem."
   },
   {
     "mesto_1": "Blansko",
@@ -317,7 +356,8 @@
     "mesto_3": "blanenská",
     "slug": "blansko",
     "population": 20000,
-    "region": "Jihomoravský kraj"
+    "region": "Jihomoravský kraj",
+    "popis": "Blansko má přibližně 20 tisíc obyvatel u Moravského krasu v Jihomoravském kraji. Stěhujeme z centra, z Písečné, z sídlišť i z rodinných domů směrem k Brnu — časté jsou přesuny pracujících do okresního města nebo zpět."
   },
   {
     "mesto_1": "Břeclav",
@@ -325,7 +365,8 @@
     "mesto_3": "břeclavská",
     "slug": "breclav",
     "population": 24000,
-    "region": "Jihomoravský kraj"
+    "region": "Jihomoravský kraj",
+    "popis": "Břeclav má asi 24 tisíc obyvatel u soutoku Dyje a Moravy v Jihomoravském kraji. Mezi Poštornou, Charvátskou Novou Vsí, centrem a sídlišti u nádraží řešíme stěhování včetně vinařských usedlostí v okolí — víme o sezónním provozu na tahu."
   },
   {
     "mesto_1": "Hodonín",
@@ -333,7 +374,8 @@
     "mesto_3": "hodonínská",
     "slug": "hodonin",
     "population": 24000,
-    "region": "Jihomoravský kraj"
+    "region": "Jihomoravský kraj",
+    "popis": "Hodonín má kolem 24 tisíc obyvatel na jihu Moravy v Jihomoravském kraji. Stěhujeme z Bažantnice, centra, z Jánského sídliště i z rodinných domů u řeky Moravy — časté jsou přesuny mezi byty a rodinnými domy ve vinohradnické krajině."
   },
   {
     "mesto_1": "Krnov",
@@ -341,7 +383,8 @@
     "mesto_3": "krnovská",
     "slug": "krnov",
     "population": 23000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Krnov má přibližně 23 tisíc obyvatel u hranic s Polskem v Moravskoslezském kraji. Mezi Cvilínem, centrem u hlavního náměstí a sídlišti stěhujeme byty i dílny — známe úzké průjezdy ve staré zástavbě i novostavby na okrajích."
   },
   {
     "mesto_1": "Kopřivnice",
@@ -349,7 +392,8 @@
     "mesto_3": "kopřivnická",
     "slug": "koprivnice",
     "population": 22000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Kopřivnice má kolem 22 tisíc obyvatel a tradici výroby automobilů v Moravskoslezském kraji. Stěhování z Lubiny, z centra, z Mnišího i z rodinných čtvrtí u lesa zajišťujeme pro zaměstnance místních podniků i rodiny z okolí."
   },
   {
     "mesto_1": "Valašské Meziříčí",
@@ -357,7 +401,8 @@
     "mesto_3": "valašskomeziříčská",
     "slug": "valasske-mezirici",
     "population": 22000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Valašské Meziříčí má asi 22 tisíc obyvatel v srdci Valašska ve Zlínském kraji. Mezi Krásnem, centrem, Rybníkem a sídlišti u Bečvy často stěhujeme mezi byty a rodinnými domy — turistický ruch v létě ovlivňuje parkování v centru."
   },
   {
     "mesto_1": "Litoměřice",
@@ -365,7 +410,8 @@
     "mesto_3": "litoměřická",
     "slug": "litomerice",
     "population": 23000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Litoměřice mají kolem 23 tisíc obyvatel nad řekou Labe v Ústeckém kraji. Stěhujeme z centra pod městskými hradbami, z Pohrádky, ze sídlišť a z vilových částí — úzké uličky v historickém jádru vyžadují menší vozy a zkušené řidiče."
   },
   {
     "mesto_1": "Sokolov",
@@ -373,7 +419,8 @@
     "mesto_3": "sokolovská",
     "slug": "sokolov",
     "population": 23000,
-    "region": "Karlovarský kraj"
+    "region": "Karlovarský kraj",
+    "popis": "Sokolov má přibližně 23 tisíc obyvatel v hnědouhelném regionu Karlovarského kraje. Mezi Starým městem, centrem, sídlišti a okrajovými ulicemi stěhujeme často při změně zaměstnání nebo rekonstrukcích — známe přístupy k panelovým domům."
   },
   {
     "mesto_1": "Rožnov pod Radhoštěm",
@@ -381,7 +428,8 @@
     "mesto_3": "rožnovská",
     "slug": "roznov-pod-radhostem",
     "population": 16000,
-    "region": "Zlínský kraj"
+    "region": "Zlínský kraj",
+    "popis": "Rožnov pod Radhoštěm má asi 16 tisíc obyvatel pod horami ve Zlínském kraji a je známý skanzenem. Stěhování z Hážov, centra, z okrajových chatových oblastí i z rodinných domů pod Radhoštěm často spojujeme s turistickou sezónou — plánujeme časové okno."
   },
   {
     "mesto_1": "Frýdlant nad Ostravicí",
@@ -389,7 +437,8 @@
     "mesto_3": "frýdlantská",
     "slug": "frydlant-nad-ostravici",
     "population": 10000,
-    "region": "Moravskoslezský kraj"
+    "region": "Moravskoslezský kraj",
+    "popis": "Frýdlant nad Ostravicí má kolem 10 tisíc obyvatel pod Beskydy v Moravskoslezském kraji. Mezi centrem u řeky Ostravice, vilovými čtvrtěmi a chatovými oblastmi stěhujeme kompaktně — časté jsou přesuny mezi menšími byty a rekreačními domy."
   },
   {
     "mesto_1": "Litvínov",
@@ -397,6 +446,7 @@
     "mesto_3": "litvínovská",
     "slug": "litvinov",
     "population": 23000,
-    "region": "Ústecký kraj"
+    "region": "Ústecký kraj",
+    "popis": "Litvínov má přibližně 23 tisíc obyvatel v Krušných horách v Ústeckém kraji. Stěhujeme z Janova, z Hamru, z centra i z panelových sídlišť u chemického průmyslu — časté jsou vyklízení a stěhování po výměně bytů ve vysokých domech."
   }
 ]
