@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ondrejmuzikar.github.io/stehovani-cz/sitemap.xml
